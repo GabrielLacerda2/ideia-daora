@@ -1,6 +1,12 @@
 function Home(){
     return (
-        <div>Home 2</div>
+        <div>
+            <h1>Home</h1>
+            <form>
+                <input/>
+                <button>OK</button>
+            </form>
+        </div>
     );
 }
 
