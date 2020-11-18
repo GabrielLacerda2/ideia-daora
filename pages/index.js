@@ -1,11 +1,9 @@
 function Home(){
     return (
-        <div>
-            <h1>Home</h1>
-            <form>
-                <input/>
-                <button>OK</button>
-            </form>
+        <div class="home">
+            <h1>Eae</h1>
+            <a href="/login">Sign In</a>
+            <a href="">Sign Up</a>
         </div>
     );
 }
